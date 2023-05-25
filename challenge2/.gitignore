@@ -3,3 +3,5 @@ notebook/__pycache__/
 notebook/lightning_logs/
 notebook/model/
 notebook/baseline.log
+notebook/result
+submission.csv
